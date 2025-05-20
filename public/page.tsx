@@ -4,11 +4,11 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="h-screen flex justify-center flex-col items-center">
-      <Card.Root size="lg" bgColor="whiteAlpha.300">
+    <div className="h-screen bg-white flex justify-center flex-col items-center break-keep">
+      <Card.Root size="lg">
         <Card.Body>
           <Card.Title mb="4">
-            BurgerTown
+            BurgerTown{" "}
             <Image
               src="/Logo.png"
               alt="BurgertownLogo"
@@ -27,7 +27,7 @@ export default function Home() {
       </Card.Root>
 
       <Link href="/totem">
-        <Button bgColor="green.500" mt="12">
+        <Button bgColor="green.500" mt="2">
           Começar meu pedido
         </Button>
       </Link>

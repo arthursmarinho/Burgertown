@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Who_per",
+    "price": "10,00",
+    "path": "/burgers/Whooper.png",
+    "description": "Deliciou Hamburger :)",
+    "id": 1
+  },
+  {
+    "name": "Rodada",
+    "price": "8,00",
+    "path": "/burgers/Rodeio.png",
+    "description": "Deliciou Hamburger :)",
+    "id": 2
+  }
+]
