@@ -17,11 +17,12 @@ export default function Home() {
             />
           </Card.Title>
           <Card.Description>
-            Essa aplicação simula um totem encontrado em estabelecimentos de
-            Fast-Food como Burger King e McDonalds. Essa aplicação ira contar
-            com 2 telas, a tela do totem, onde o cliente faz o pedido; <br />A
-            tela que o Chapeiro do estabelecimento verá os pedidos em ordem;
-            <br /> E a tela falando qual dos pedidos estão prontos.
+            Esta aplicação simula um totem encontrado em estabelecimentos de
+            fast-food, como Burger King e McDonald's. Ela contará com duas
+            telas: – A tela do totem, onde o cliente faz o pedido; – E uma
+            segunda tela dividida em duas partes: À esquerda, onde o chapeiro
+            visualiza os pedidos; À direita, onde os clientes acompanham quando
+            seus pedidos ficam prontos.
           </Card.Description>
         </Card.Body>
       </Card.Root>
